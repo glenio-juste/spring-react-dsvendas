@@ -1,4 +1,4 @@
-# spring-react-devsuperior
+# spring-react-dsvendas
 
 criação do projeto front-end
 
